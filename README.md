@@ -1,5 +1,4 @@
-# Add-on-calculator[Fresha_SEA_Addons_Calculator (5).html](https://github.com/user-attachments/files/27274739/Fresha_SEA_Addons_Calculator.5.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
